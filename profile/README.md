@@ -19,6 +19,7 @@ Our goal is to open-source the IaaS engineering practices we have developed inte
 | Project | Language | Description |
 | --- | --- | --- |
 | [redfish-python-sdk](https://github.com/rednote-infra/redfish-python-sdk) | Python | A Python SDK built on the DMTF Redfish standard for server out-of-band management (BMC automation), supporting power management, hardware inventory, firmware upgrades, and more. |
+| [bmc_autotest](https://github.com/rednote-infra/bmc_autotest) | Python | Automated BMC functional test scripts based on Redfish, covering Chassis, Systems, Managers, account/session/event/update services, IPMI, Web checks, and batch report generation. |
 
 ## Contact Us
 
