@@ -1,12 +1,11 @@
-<div align="center">
-  <img src="../icon/rednote-infra-icon.png" alt="rednote-infra logo" width="160" />
-
-  # rednote-infra
-
-  **Xiaohongshu (REDnote) Open Source Community for Server & IDC Infrastructure**
-
-  English · [中文](README_CN.md)
-</div>
+<p align="center">
+  <img src="../icon/rednote-infra-icon.png" alt="rednote-infra logo" width="96" />
+</p>
+<h1 align="center">rednote-infra</h1>
+<p align="center">
+  <strong>Xiaohongshu (REDnote) Open Source Community for Server &amp; IDC Infrastructure</strong><br />
+  English · <a href="README_CN.md">中文</a>
+</p>
 
 ## About Us
 
