@@ -1,12 +1,11 @@
-<div align="center">
-  <img src="../icon/rednote-infra-icon.png" alt="rednote-infra 标志" width="160" />
-
-  # rednote-infra
-
-  **小红书（REDnote）服务器与 IDC 基础设施开源社区**
-
-  [English](README.md) · 中文
-</div>
+<p align="center">
+  <img src="../icon/rednote-infra-icon.png" alt="rednote-infra 标志" width="96" />
+</p>
+<h1 align="center">rednote-infra</h1>
+<p align="center">
+  <strong>小红书（REDnote）服务器与 IDC 基础设施开源社区</strong><br />
+  <a href="README.md">English</a> · 中文
+</p>
 
 ## 关于我们
 
