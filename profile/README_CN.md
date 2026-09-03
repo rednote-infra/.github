@@ -19,6 +19,7 @@
 | 项目 | 语言 | 简介 |
 | --- | --- | --- |
 | [redfish-python-sdk](https://github.com/rednote-infra/redfish-python-sdk) | Python | 基于 DMTF Redfish 标准协议的 Python SDK，用于服务器带外管理（BMC）的自动化操作，支持电源管理、硬件信息采集、固件升级等能力。 |
+| [bmc_autotest](https://github.com/rednote-infra/bmc_autotest) | Python | 基于 Redfish 协议的 BMC 功能自动化测试脚本，覆盖 Chassis、Systems、Managers、账号/会话/事件/更新服务、IPMI、Web 检查及批量报告生成。 |
 
 ## 联系我们
 
